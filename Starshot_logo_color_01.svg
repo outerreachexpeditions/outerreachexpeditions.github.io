@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224.84 103.23">
+  <defs>
+    <style>
+      
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #8055a3;
+        font-size: 8.05px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Spacetron;
+      }
+
+      .cls-4 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-3 {
+        fill: #d96ba9;
+        font-size: 28.46px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-13 {
+        fill: #fbad18;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <path class="cls-13" d="M56.2,77.67c-11.76,8.66-23.67,17.17-35.63,25.56,0,0,1.54-4.09,1.54-4.09,3.8-10.32,9.54-25.33,13.53-35.77,0,0,.72,2.5.72,2.5-8.56-6.12-21.87-15.48-30.28-21.61,0,0-6.07-4.38-6.07-4.38l7.5-.03c9.28-.06,27.92-.07,37.2,0,0,0-2.31,1.68-2.31,1.68,4.07-12.47,9.72-29.06,13.91-41.54,3.91,12.87,8.91,29.04,12.68,41.87,0,0-1.28-.93-1.28-.93,39.13.24,118.02.91,157.15,1.35,0,0-78.57.78-78.57.78l-78.57.57s-.95,0-.95,0l-.33-.94c-2.05-5.85-4.15-11.69-6.16-17.56l-6.06-17.59s4.02,0,4.02,0c-3.39,10.84-8.27,26.47-11.73,37.15-10.15.06-28.82.08-38.98,0,0,0,1.43-4.4,1.43-4.4,8.37,6.11,21.5,15.86,29.91,22.12,0,0,1.35,1.01,1.35,1.01,0,0-.63,1.5-.63,1.5-4.35,10.34-10.56,25.04-14.97,35.2,0,0-1.99-1.62-1.99-1.62,11.14-7.05,22.31-14.03,33.59-20.86h0Z"/>
+    <text class="cls-3" transform="translate(47.5 65.95)"><tspan x="0" y="0">S</tspan><tspan class="cls-9" x="21.8" y="0">T</tspan><tspan x="43.03" y="0">A</tspan><tspan class="cls-5" x="65.23" y="0">R</tspan><tspan x="86.97" y="0">SH</tspan><tspan class="cls-6" x="130.35" y="0">O</tspan><tspan x="152.6" y="0">T</tspan></text>
+    <text class="cls-2" transform="translate(72.22 38.81)"><tspan x="0" y="0">OUTER </tspan><tspan class="cls-11" x="36.52" y="0">R</tspan><tspan class="cls-4" x="42.55" y="0">E</tspan><tspan class="cls-12" x="48.88" y="0">A</tspan><tspan x="54.7" y="0">CH EXP</tspan><tspan class="cls-10" x="89.79" y="0">E</tspan><tspan class="cls-7" x="96.3" y="0">D</tspan><tspan class="cls-1" x="102.67" y="0">IT</tspan><tspan class="cls-8" x="111.9" y="0">I</tspan><tspan x="113.89" y="0">ONS</tspan></text>
+  </g>
+</svg>
