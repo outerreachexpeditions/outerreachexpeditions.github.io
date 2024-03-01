@@ -7,8 +7,17 @@ h1 {
   font-family: sans-serif;
 }
 
+svg{
+  height: 30px;
+  width: 300px;
+  }
+
+
 img {
   height: 15rem;
+}
+a{
+  color: #d96ba9;
 }
 
 .wrapper {
@@ -106,6 +115,8 @@ body {
     29vw -37vh 1px 1px #fff, 28vw 2vh 0px 0px #fff;
   animation: zoom 16s alternate infinite;
 }
+
+
 
 @keyframes zoom {
   0% {
